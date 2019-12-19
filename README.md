@@ -1,0 +1,1 @@
+Hangman Game in C is a simple C program which has been designed to demonstrate different application formats and syntaxes of C programming language. The game is very simple to play and the coding has been done such as way that the applicatoin is an interesting and entertaining game. In the game, there is not any use of graphics, user defined function.
